@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":2,"expanded":false,"name":"StartingFarm","order":2,"parentId":1,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":2,"expanded":false,"name":"StartingFarm","order":2,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":3,"expanded":false,"name":"Farmhouse","order":3,"parentId":2,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":4,"expanded":false,"name":"Barn","order":4,"parentId":2,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":false,"name":"Fields","order":5,"parentId":1,"scrollX":973.1999999999999,"scrollY":886.8}
+{"id":5,"expanded":false,"name":"Fields","order":5,"parentId":1,"scrollX":1081.3333333333333,"scrollY":614.6666666666666}
 ]
